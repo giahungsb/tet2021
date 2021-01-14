@@ -25,7 +25,7 @@ var ringer = {
    },
   r_count: 5,
   r_spacing:10, // px
-  r_size: 120, // px
+  r_size: 80, // px
   r_thickness: 5, // px
   update_interval: 11, // ms
     
