@@ -164,7 +164,8 @@ $(function() {
 
 	//Progress Bar event listener
 	audio.addEventListener("timeupdate", updateProgress, false);
-	
+  
+  
 });
 
 
